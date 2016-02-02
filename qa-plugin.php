@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Question2Answer chinese URI conversion
 	Plugin URI: https://github.com/memoryboxes/Question2Answer-chineselish-URLs
-	Plugin Description: Converts all chinese locale chars to the corrensponding latin ones, thus avoiding the conversion to encoded URLs. fork from https://github.com/stefkiourk/Question2Answer-greeklish-URLs
+	Plugin Description: Converts all chinese locale chars to the corrensponding latin ones, thus avoiding the conversion to encoded URLs.
 	Plugin Version: 1.0
 	Plugin Date: 2015-02-02
 	Plugin Author: memoryboxes
