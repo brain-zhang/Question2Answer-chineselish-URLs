@@ -6,7 +6,7 @@
 	Plugin Version: 1.0
 	Plugin Date: 2015-02-02
 	Plugin Author: memoryboxes
-	Plugin Author URI: http://memoryboxes.github.com
+	Plugin Author URI: http://memoryboxes.github.io
 	Plugin License: BSD2
 	Plugin Minimum Question2Answer Version: 1.5
 	Plugin Update Check URI:
